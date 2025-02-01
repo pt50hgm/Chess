@@ -1,4 +1,4 @@
-Chess, made in Pygame
+Chess, made with Pygame
 - Single player vs CPU opponent
 - Local multiplayer
 
